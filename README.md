@@ -1,5 +1,5 @@
 # Food-Ordering-System
-React Bootstrap App with .NET Core 6 Minimal API and EF Core
+.NET Core 6 Minimal API and EF Core
 
 Please follow the steps in order to ensure that you can run the solution correctly :)
 
